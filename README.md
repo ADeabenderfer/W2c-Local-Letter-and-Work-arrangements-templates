@@ -1,15 +1,8 @@
-# W2c-Local-Letter/Work arrangements-templates
-1) Local letter template provided with a W2C
-2) Work arrangement letters provided to employees reflecting their work arrangements
+# W2C Local Letter & Work Arrangements Templates
 
-Analysts were previously using Word document templates.
-
-Issues:
-Analysts would forget to save a copy prior to making updates / 
-Locating the sections needing updated was timely (especially when original template was overridden) / 
-Updates occasionally changed formatting of the word doc template
-
-Solution:
-Locating fields to be updated is easier / 
-Easier to remove previously used data / 
-Formatting does not accidentally get changed
+| Aspect                | Description                                                                                                                                                        |
+|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Project Overview**   | Local letter template provided with a W2C and work arrangement letters reflecting employees’ work setups.                                                          |
+| **Previous Process**   | Analysts used Word document templates, often forgetting to save copies before updates, struggling to locate sections to update, and unintentionally altering formatting. |
+| **Issues**             | Difficulties in saving versions, time-consuming updates, and occasional formatting changes when modifying original templates.                                       |
+| **Solution**           | Created templates where fields to update are easier to locate, previously used data can be easily removed, and formatting is preserved to prevent accidental changes. |
